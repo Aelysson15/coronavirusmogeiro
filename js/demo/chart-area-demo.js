@@ -45,7 +45,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(78, 115, 223, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [0, 0, 0, 2, 5],
+      data: [0, 0, 0, 3, 5],
     },
     {
       label: "Casos Recuperados",
@@ -60,7 +60,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "rgba(46,229,46, 1)",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [0, 0, 0, 0, 2],
+      data: [0, 0, 0, 2, 1],
     },
     {
       label: "óbitos",
